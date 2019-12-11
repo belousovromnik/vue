@@ -1,0 +1,10 @@
+npm install -g @vue/cli@3.9.3
+npm install axios@0.18.0
+npm install bootstrap@4.3.1
+
+cd .\my_project\client\src\
+
+py server.py
+npm run serve
+
+
